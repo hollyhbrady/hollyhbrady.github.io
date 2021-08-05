@@ -1,9 +1,7 @@
 .header {
     padding: 10px 16px;
-    left: 0;
-    top: 0;
     width: 100%;
-    background-color:rgb(228, 159, 133);
+    background-color:rgb(255, 174, 145);
     color: black;
 }
 
@@ -16,7 +14,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:rgb(228, 159, 133);
+    background-color:rgb(255, 174, 145);
     color: black;
     text-align: center;
 }
